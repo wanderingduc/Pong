@@ -1,5 +1,5 @@
-# Empty Java Project
-This repository contains an empty Java project which you can use for anything :) 
+# Pong
+My really bad implementation of Pong
 
 YouTube vid:
 https://youtu.be/smYTPnCmEHI
@@ -12,3 +12,19 @@ father_background.png - https://www.reddit.com/r/photoshopbattles/comments/6blgw
 
 father_song.wav - https://kcnawatch.org/kctv-archive/6621272c6fb04/ (5:56:46) , 25/04-2024
 comrade_song.wav - https://www.youtube.com/watch?v=OjNpRbNdR7E , 25/04-2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If you own any of the resources and want them removed please contact me.
